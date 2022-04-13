@@ -1,0 +1,15 @@
+Title: Lenovo PC portable IdeaPad Gaming 3 AMD Ryzen 5 5600H 8GB/ 512GB SSD RTX 3050 4GB
+
+Marque: Lenovo
+
+Categorie: PC
+
+Prix: 12,000.00 Dhs
+
+Détails: AMD Ryzen 5 5600H 8 Go SSD 512 Go 15.6" LED Full HD NVIDIA GeForce RTX 3050 4 Go Wi-Fi AX/Bluetooth Webcam Windows 11 Famille 64 bitsLe PC portable Gamer Lenovo IdeaPad Gaming 3 15ACH6 offre des performances remarquables pour un prix abordable et d'un processeur AMD Ryzen 5 Cezanne Hexa Core.
+
+Plus Détails: + Processeur : AMD Ryzen 5 5600H Cezanne (3.3 GHz, 6 cœurs)
+	      + RAM : 8 Go DDR4 3200 MHz (32 Go), 2 slots (1 libre)
+	      + Disque dur : SSD M.2 de 512 Go (NVMe PCIe 3.0 x4, 2280) + 1 emplacement libre M.2 (2242)
+	      + OS : Windows 11 Famille 64 bits
+	      + Carte graphique : NVIDIA Ampere GeForce RTX 3050 4 Go GDDR6 dédiés (boost 1500MHz, TDP 75W), Radeon Vega 7 intégrée au processeur

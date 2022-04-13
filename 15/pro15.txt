@@ -1,0 +1,15 @@
+Title: DELL PC Portable Workstation-Intel Xeon W-10855M-32G-512G SSD-Win10Pro-Azerty-Noir
+
+Marque: DELL
+
+Categorie: PC
+
+Prix: 20,800.00 Dhs
+
+Détails: L’équipement idéal : les processeurs Intel® Core™ et Xeon® vPro® de 10e génération offrent aux entreprises les performances, la facilité de gestion, les fonctions de sécurité intégrées et la stabilité de l’architecture Intel®, et s’alignent sur un calendrier de lancement évolutif.
+
+Plus Détails: + Processeur : Intel Xeon W-10855M (6 Core, 12MB Cache, 2.80 GHz to 5.10 GHz, 35W, vPro)
+	      + RAM : 32GB DDR4 SDRAM 2933 MHz
+	      + Disque dur : 512G SSD  100% flash
+	      + OS : Windows 10 pro 64 bits
+	      + Carte graphique : Nvidia Quadro P620 w/ 4GB GDDR5 & Intel UHD Graphics

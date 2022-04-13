@@ -1,0 +1,15 @@
+Title: Acer PC PORTABLE Nitro 5 AN515-55-5692 i5-10300H 8 Go SSD 512 Go 15.6" RTX 3060 6 Go
+
+Marque: Acer
+
+Categorie: PC
+
+Prix: 12,250.00 Dhs
+
+Détails: Gagnez en confort et en plaisir de jeu avec le PC portable Gamer Acer Nitro 5 AN515-55 ! Cet ordinateur portable Acer est conçu pour offrir des performances remarquables et un haut niveau de confort de jeu et d'un processeur Intel Core i5-10300H.
+
+Plus Détails: + Processeur : Intel Core i5-10300H (Quad-Core 2.5 GHz / 4.5 GHz Turbo - 8 Threads - Cache 8 Mo)
+	      + RAM : 8 Go DDR4 2933 MHz (2x 4 Go - 2 slots - Maximum 32 Go)
+	      + Disque dur : SSD M.2 PCIe NVMe de 512 Go + 1 slot M.2 PCIe + 1 baie 2.5" libre
+	      + OS : Windows 10 Famille 64 bits
+	      + Carte graphique : NVIDIA GeForce RTX 3060 avec 6 Go de mémoire  
